@@ -22,6 +22,9 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  background-size: cover;
+  background-position: center;
+  background-image: url("https://thumbs.dreamstime.com/b/vintage-timer-pink-background-top-view-space-text-213974658.jpg");
 }
 
 .App-link {

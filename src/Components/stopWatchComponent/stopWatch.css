@@ -1,0 +1,27 @@
+
+h1{
+   color: black;
+   font-style: italic;
+   font-family:cursive;
+}
+
+div{
+   color: black;
+}
+.buttons
+{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   align-items: center;
+
+}
+
+.buttons .circle
+{
+   padding: 40px;
+   margin: 30px;
+   border-radius: 100px 100px 100px 100px;
+   font-size: medium;
+
+}
